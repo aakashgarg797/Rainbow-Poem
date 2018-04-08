@@ -5,7 +5,7 @@ Blue
 Orange
 Green
 Voilet
-
+Pink
 Red
 
 Yeloow
