@@ -6,6 +6,7 @@ Orange
 Green
 Voilet
 Pink
+Indigo
 Red
 Unicorn
 Yeloow
